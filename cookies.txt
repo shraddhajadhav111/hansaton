@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hansaton.at	TRUE	/	FALSE	1999999999	CMSCsrfCookie	Xh8vWdynZ/8plV025L/u/AXE63bEBaahHAnWxekl
+www.hansaton.at	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	lhelmrlywzfwct3fofauq0nw
+www.hansaton.at	TRUE	/	FALSE	1999999999	SameSite	Lax
+c.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+c.bing.com	TRUE	/	FALSE	1999999999	MR	0
+c.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+.bing.com	TRUE	/	FALSE	1999999999	MUID	35FBB64EE2ED628A0D97A736E35F635A
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+.standorte.hansaton.at	TRUE	/	FALSE	1999999999	__cf_bm	kZA2jP.Jce7TZvjYl5ZNE4jaH6jf09TiAL7U3yT8oDo-1648722943-0-AWUT+SyfBggY1uHCxxLWDER2t4DIf68MYoR/FPSqcrEApSkYc9tfV+UI+ls0wxXNR2/Kfv7AKv2/PWYKNM9m++c=
+standorte.hansaton.at	TRUE	/	FALSE	1999999999	SameSite	None
+www.hansaton.at	TRUE	/	FALSE	1999999999	CMSPreferredCulture	de-AT
+
